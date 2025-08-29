@@ -1,2 +1,14 @@
-# Race_Distance_Calculator
-Mini Java app that computes distance traveled from speed (km/h) and time (h), converts speed to m/s, and formats the output with String.format. It demonstrates primitive types, the KMH_TO_MS symbolic constant, and a separate calcularDistanciaKm method, includes simple validation to reject negative values, and performs no console input.
+## RACING GAME
+
+Educational Java project to deepen my knowledge: a mini racing app that computes distance traveled from **maximum speed (km/h)** and **race time (h)**.
+
+### The player must provide
+- a) Car name  
+- b) Maximum speed (km/h)  
+- c) Race time (hours)
+
+### The program must
+- d) Use **primitive types** and **symbolic constants** (e.g., km/h → m/s conversion factor).  
+- e) **Compute the distance traveled** (in km and m).  
+- f) **Display formatted results** using `String.format`.  
+- g) **Encapsulate the calculation** in a separate method.
